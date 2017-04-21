@@ -1,0 +1,13 @@
+﻿{
+  "clienttoken": "TOKEN",
+  "ircdetails": {
+    "hostname": "HOSTNAME",
+    "nickname": "NICKNAME",
+    "username": "USERNAME",
+    "password": "PASSWORD",
+    "ignoressl": "true",
+    "moderators": {
+      "username": "nickname"
+    }
+  }
+}
