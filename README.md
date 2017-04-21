@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/JackRyder/SpotiiShuffle.svg?branch=master)](https://travis-ci.org/JackRyder/SpotiiShuffle)
+
 # SpotiiShuffle
 Better spotify shuffler for large playlists, and perhaps for small playlists too!
 
