@@ -837,8 +837,8 @@ namespace SpotiiShuffle
             }
             else
             {
-                StartTime = new TimeSpan(17, 58, 00);
-                EndTime = new TimeSpan(18, 00, 00);
+                StartTime = new TimeSpan(17, 28, 00);
+                EndTime = new TimeSpan(17, 30, 00);
             }
 
             if (DateTime.Now.TimeOfDay > StartTime && DateTime.Now.TimeOfDay < EndTime)
